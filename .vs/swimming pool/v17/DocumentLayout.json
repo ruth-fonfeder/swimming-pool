@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Client.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Client.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Client.cs",
+              "RelativeToolTip": "swimming pool\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:30:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Course.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Course.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Course.cs",
+              "RelativeToolTip": "swimming pool\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:27:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Instructor.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Instructor.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Instructor.cs",
+              "RelativeToolTip": "swimming pool\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:26:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "swimming pool\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:00:35.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

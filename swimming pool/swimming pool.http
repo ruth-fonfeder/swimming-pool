@@ -1,0 +1,6 @@
+@swimming_pool_HostAddress = http://localhost:5231
+
+GET {{swimming_pool_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
