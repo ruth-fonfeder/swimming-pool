@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWha1FTSW8g=",
+  "dgSpecHash": "V9wryUDfVtA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\רות\\כיתה ו\\לימודים\\net core\\swimming pool\\swimming pool\\swimming pool.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\רות\\כיתה ו\\לימודים\\net core\\פרויקט\\swimming pool\\swimming pool\\swimming pool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

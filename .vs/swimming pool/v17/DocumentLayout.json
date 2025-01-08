@@ -1,22 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\",
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4401537-73FC-4068-A156-9CAF926140C3}|Clean.Data\\Clean.Data.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.data\\clean.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4401537-73FC-4068-A156-9CAF926140C3}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\clean.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.core\\clean.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\clean.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB9F53F-4F77-43D8-ACD4-EA2AF9C4F83D}|Clean.Service\\Clean.Service.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB9F53F-4F77-43D8-ACD4-EA2AF9C4F83D}|Clean.Service\\Clean.Service.csproj|solutionrelative:clean.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4401537-73FC-4068-A156-9CAF926140C3}|Clean.Data\\Clean.Data.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.data\\repisitories\\clientrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4401537-73FC-4068-A156-9CAF926140C3}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\repisitories\\clientrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB9F53F-4F77-43D8-ACD4-EA2AF9C4F83D}|Clean.Service\\Clean.Service.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.service\\clean.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EB9F53F-4F77-43D8-ACD4-EA2AF9C4F83D}|Clean.Service\\Clean.Service.csproj|solutionrelative:clean.service\\clean.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\controllers\\courscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\controllers\\courscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4401537-73FC-4068-A156-9CAF926140C3}|Clean.Data\\Clean.Data.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4401537-73FC-4068-A156-9CAF926140C3}|Clean.Data\\Clean.Data.csproj|solutionrelative:clean.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\swimming pool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\swimming pool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\clean.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1A124-6FE6-4299-A859-F517111BA7C8}|Clean.Core\\Clean.Core.csproj|solutionrelative:clean.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4FB51E-2418-4ABA-B48D-3DEDEE7BBDE6}|swimming pool\\swimming pool.csproj|solutionrelative:swimming pool\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D292D-7A0B-465D-9CD3-6D638C972716}|UnitTests\\UnitTests.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\unittests\\clientcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8D292D-7A0B-465D-9CD3-6D638C972716}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\clientcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8D292D-7A0B-465D-9CD3-6D638C972716}|UnitTests\\UnitTests.csproj|c:\\users\\user1\\desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A8D292D-7A0B-465D-9CD3-6D638C972716}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +74,200 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Client.cs",
-              "RelativeDocumentMoniker": "swimming pool\\Client.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Client.cs",
-              "RelativeToolTip": "swimming pool\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "DocumentIndex": 3,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "Clean.Core\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Services\\IClientService.cs",
+              "RelativeToolTip": "Clean.Core\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T21:30:13.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T21:05:54.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Clean.Core\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Clean.Core\\Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:58:01.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Course.cs",
-              "RelativeDocumentMoniker": "swimming pool\\Course.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Course.cs",
-              "RelativeToolTip": "swimming pool\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Title": "Clean.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Clean.Core.csproj",
+              "RelativeDocumentMoniker": "Clean.Core\\Clean.Core.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Clean.Core.csproj",
+              "RelativeToolTip": "Clean.Core\\Clean.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:56:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clean.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Service\\Clean.Service.csproj",
+              "RelativeDocumentMoniker": "Clean.Service\\Clean.Service.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Service\\Clean.Service.csproj",
+              "RelativeToolTip": "Clean.Service\\Clean.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:36:38.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Service\\ClientService.cs",
+              "RelativeDocumentMoniker": "Clean.Service\\ClientService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Service\\ClientService.cs",
+              "RelativeToolTip": "Clean.Service\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T21:27:08.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T19:36:59.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Data\\Repisitories\\ClientRepositories.cs",
+              "RelativeDocumentMoniker": "Clean.Data\\Repisitories\\ClientRepositories.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Data\\Repisitories\\ClientRepositories.cs",
+              "RelativeToolTip": "Clean.Data\\Repisitories\\ClientRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:28:50.993Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Instructor.cs",
-              "RelativeDocumentMoniker": "swimming pool\\Instructor.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Instructor.cs",
-              "RelativeToolTip": "swimming pool\\Instructor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T21:26:31.069Z",
+              "Title": "Clean.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Data\\Clean.Data.csproj",
+              "RelativeDocumentMoniker": "Clean.Data\\Clean.Data.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Data\\Clean.Data.csproj",
+              "RelativeToolTip": "Clean.Data\\Clean.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:27:01.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "swimming pool\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\swimming pool\\swimming pool\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "swimming pool\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Clean.Core\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Core\\Entities\\Course.cs",
+              "RelativeToolTip": "Clean.Core\\Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T16:00:35.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T15:24:22.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Clean.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\Clean.Data\\DataContext.cs",
+              "RelativeToolTip": "Clean.Data\\DataContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:18:56.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T19:10:24.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\UnitTests\\ClientControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\ClientControllerTest.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\UnitTests\\ClientControllerTest.cs",
+              "RelativeToolTip": "UnitTests\\ClientControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T19:11:28.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "swimming pool\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvygAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:10:42.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Controllers\\CoursController.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Controllers\\CoursController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Controllers\\CoursController.cs",
+              "RelativeToolTip": "swimming pool\\Controllers\\CoursController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T22:09:38.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "swimming pool\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:00:36.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "swimming pool.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\swimming pool.csproj",
+              "RelativeDocumentMoniker": "swimming pool\\swimming pool.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\swimming pool.csproj",
+              "RelativeToolTip": "swimming pool\\swimming pool.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T18:57:09.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Program.cs",
+              "RelativeDocumentMoniker": "swimming pool\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05E8\u05D5\u05EA\\\u05DB\u05D9\u05EA\u05D4 \u05D5\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\net core\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\\swimming pool\\swimming pool\\Program.cs",
+              "RelativeToolTip": "swimming pool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:55:03.919Z"
             }
           ]
         }

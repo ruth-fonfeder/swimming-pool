@@ -30,3 +30,36 @@ C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\swimming pool\
 C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.pdb
 C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.genruntimeconfig.cache
 C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\swimming pool\swimming pool\obj\Debug\net8.0\ref\swimming pool.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\appsettings.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\swimming pool.exe
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\swimming pool.deps.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\swimming pool.runtimeconfig.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\swimming pool.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\swimming pool.pdb
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.AssemblyInfo.cs
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.sourcelink.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets\msbuild.swimming pool.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets\msbuild.build.swimming pool.props
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.swimming pool.props
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.swimming pool.props
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\scopedcss\bundle\swimming pool.styles.css
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming.E6CCF17B.Up2Date
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\refint\swimming pool.dll
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.pdb
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\swimming pool.genruntimeconfig.cache
+C:\Users\user1\Desktop\רות\כיתה ו\לימודים\net core\פרויקט\swimming pool\swimming pool\obj\Debug\net8.0\ref\swimming pool.dll
